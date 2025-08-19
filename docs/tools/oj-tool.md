@@ -1,5 +1,20 @@
 本页面将介绍一些 OJ 工具。
 
+## Codeforces/Atcoder Better
+
+Codeforces/Atcoder Better 是一个 tampermonkey 插件，用于多方面增强网站功能。常用功能包括：
+- 调节白天/黑暗模式；
+- 在题目页显示跳转到VJudge/洛谷的按钮；
+- 自动翻译题面；
+- 一键复制题面 markdown；
+- 在题目下方生成编辑器，可以一键测样例并提交；
+- （仅限 CF）评论区分页；
+- 还有更多功能……
+
+该工具可以极大地增加我们做题舒适度，尤其是打比赛时。
+
+你需要首先安装 [tampermonkey](https://www.tampermonkey.net/)，然后通过以下链接安装：[Codeforces Better](https://greasyfork.org/zh-CN/scripts/465777-codeforces-better)，[Atcoder Better](https://greasyfork.org/zh-CN/scripts/471106-atcoder-better)。若打不开可以用 [Greasyfork 可访问的镜像站](https://gf.qytechs.cn/)。
+
 ## cf-tool
 
 cf-tool 是 Codeforces 的命令行界面的跨平台（支持 Windows、Linux、macOS）工具，支持很多常用操作。
